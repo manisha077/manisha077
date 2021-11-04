@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manisha077
 - 👀 I’m interested in micro controllers
-- 🌱 I’m currently learning programming verities of micro controllers
+- 🌱 I’m currently learning programming different of micro controllers
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
